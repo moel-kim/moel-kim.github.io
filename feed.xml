@@ -171,6 +171,16 @@
   </item>
 
   <item>
+    <guid>https://woody-morgan.github.io//blog/frontend/etc</guid>
+    <title>Frontend Knowledges 2025</title>
+    <link>https://woody-morgan.github.io//blog/frontend/etc</link>
+    <description>프론트엔드 지식 정리</description>
+    <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
+    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <category>frontend</category>
+  </item>
+
+  <item>
     <guid>https://woody-morgan.github.io//blog/frontend/optimizing-nextjs-application</guid>
     <title>Next.js Application 최적화하기(feat. Vercel)</title>
     <link>https://woody-morgan.github.io//blog/frontend/optimizing-nextjs-application</link>
