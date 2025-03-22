@@ -1,18 +1,18 @@
 const siteMetadata = {
-  title: 'woody-morgan.github.io',
-  author: 'woody morgan',
+  title: 'moel-kim.github.io',
+  author: 'moel kim',
   headerTitle: 'Inspirations',
   description: 'Inspirational thoughts and ideas',
   language: 'ko-KR',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://woody-morgan.github.io/',
-  siteRepo: 'https://github.com/woody-morgan/woody-morgan.github.io',
+  siteUrl: 'https://moel-kim.github.io/',
+  siteRepo: 'https://github.com/moel-kim/moel-kim.github.io',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.jpeg',
   socialBanner: '/static/images/avatar.jpeg',
-  email: 'woody.morgan.crafts@gmail.com',
-  github: 'https://github.com/woody-morgan',
-  linkedin: 'https://www.linkedin.com/in/woody-morgan',
+  email: 'moel.kimdw@gmail.com',
+  github: 'https://github.com/moel-kim',
+  linkedin: 'https://www.linkedin.com/in/moel-kim',
   locale: 'ko-KR',
   analytics: {
     simpleAnalytics: true, // true or false
