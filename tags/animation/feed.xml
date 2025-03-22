@@ -1,32 +1,32 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>woody-morgan.github.io</title>
-      <link>https://woody-morgan.github.io//blog</link>
+      <title>moel-kim.github.io</title>
+      <link>https://moel-kim.github.io//blog</link>
       <description>Inspirational thoughts and ideas</description>
       <language>ko-KR</language>
-      <managingEditor>woody.morgan.crafts@gmail.com (woody morgan)</managingEditor>
-      <webMaster>woody.morgan.crafts@gmail.com (woody morgan)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
       <lastBuildDate>Wed, 05 Oct 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://woody-morgan.github.io//tags/animation/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://moel-kim.github.io//tags/animation/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://woody-morgan.github.io//blog/frontend/create-native-like-image-slider-component</guid>
+    <guid>https://moel-kim.github.io//blog/frontend/create-native-like-image-slider-component</guid>
     <title>Create Native App Like Image Slider Component</title>
-    <link>https://woody-morgan.github.io//blog/frontend/create-native-like-image-slider-component</link>
+    <link>https://moel-kim.github.io//blog/frontend/create-native-like-image-slider-component</link>
     <description>네이티브 Like 이미지 슬라이더를 HTML과 Framer-motion으로 제작하는 법</description>
     <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>frontend</category><category>animation</category>
   </item>
 
   <item>
-    <guid>https://woody-morgan.github.io//blog/frontend/pagetransition-animation-using-framer-motion</guid>
+    <guid>https://moel-kim.github.io//blog/frontend/pagetransition-animation-using-framer-motion</guid>
     <title>PageTransition Animation using Framer Motion</title>
-    <link>https://woody-morgan.github.io//blog/frontend/pagetransition-animation-using-framer-motion</link>
+    <link>https://moel-kim.github.io//blog/frontend/pagetransition-animation-using-framer-motion</link>
     <description>Guide to apply pagetransition animation using framer-motion</description>
     <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>frontend</category><category>animation</category>
   </item>
 

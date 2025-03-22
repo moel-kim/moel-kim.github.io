@@ -1,42 +1,42 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>woody-morgan.github.io</title>
-      <link>https://woody-morgan.github.io//blog</link>
+      <title>moel-kim.github.io</title>
+      <link>https://moel-kim.github.io//blog</link>
       <description>Inspirational thoughts and ideas</description>
       <language>ko-KR</language>
-      <managingEditor>woody.morgan.crafts@gmail.com (woody morgan)</managingEditor>
-      <webMaster>woody.morgan.crafts@gmail.com (woody morgan)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
       <lastBuildDate>Wed, 28 Aug 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://woody-morgan.github.io//tags/javascript/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://moel-kim.github.io//tags/javascript/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://woody-morgan.github.io//blog/language/fundamental-javascript</guid>
+    <guid>https://moel-kim.github.io//blog/language/fundamental-javascript</guid>
     <title>[언어학][JS] Prototype</title>
-    <link>https://woody-morgan.github.io//blog/language/fundamental-javascript</link>
+    <link>https://moel-kim.github.io//blog/language/fundamental-javascript</link>
     <description>Prototype에 대해 알아보면서 JS에 대해 다시 알아보자</description>
     <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>linguistics</category><category>javascript</category>
   </item>
 
   <item>
-    <guid>https://woody-morgan.github.io//blog/frontend/flat-color-token-object-for-vanilla-extract</guid>
+    <guid>https://moel-kim.github.io//blog/frontend/flat-color-token-object-for-vanilla-extract</guid>
     <title>Vanilla Extract CSS를 위한 ColorToken Flattening(feat. Typescript)</title>
-    <link>https://woody-morgan.github.io//blog/frontend/flat-color-token-object-for-vanilla-extract</link>
+    <link>https://moel-kim.github.io//blog/frontend/flat-color-token-object-for-vanilla-extract</link>
     <description>colorToken을 Vanilla Extract Sprinkles에 할당하기 위한 Object Flattening 하기</description>
     <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>javascript</category><category>typescript</category>
   </item>
 
   <item>
-    <guid>https://woody-morgan.github.io//blog/funtional/what-is-throttle-debounce</guid>
+    <guid>https://moel-kim.github.io//blog/funtional/what-is-throttle-debounce</guid>
     <title>What is Throttle &amp; Debounce</title>
-    <link>https://woody-morgan.github.io//blog/funtional/what-is-throttle-debounce</link>
+    <link>https://moel-kim.github.io//blog/funtional/what-is-throttle-debounce</link>
     <description>Throttle &amp; Debounce 함수의 역할과 차이점 정리</description>
     <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>javascript</category>
   </item>
 

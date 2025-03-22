@@ -1,22 +1,22 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>woody-morgan.github.io</title>
-      <link>https://woody-morgan.github.io//blog</link>
+      <title>moel-kim.github.io</title>
+      <link>https://moel-kim.github.io//blog</link>
       <description>Inspirational thoughts and ideas</description>
       <language>ko-KR</language>
-      <managingEditor>woody.morgan.crafts@gmail.com (woody morgan)</managingEditor>
-      <webMaster>woody.morgan.crafts@gmail.com (woody morgan)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
       <lastBuildDate>Mon, 07 Feb 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://woody-morgan.github.io//tags/optimization/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://moel-kim.github.io//tags/optimization/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://woody-morgan.github.io//blog/frontend/ways-to-optimize-your-nextjs-application</guid>
+    <guid>https://moel-kim.github.io//blog/frontend/ways-to-optimize-your-nextjs-application</guid>
     <title>Ways to Optimize your React/Nextjs Application</title>
-    <link>https://woody-morgan.github.io//blog/frontend/ways-to-optimize-your-nextjs-application</link>
+    <link>https://moel-kim.github.io//blog/frontend/ways-to-optimize-your-nextjs-application</link>
     <description>apply tree-shaking &amp; constate on my app</description>
     <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>frontend</category><category>optimization</category>
   </item>
 

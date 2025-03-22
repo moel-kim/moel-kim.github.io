@@ -1,22 +1,22 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>woody-morgan.github.io</title>
-      <link>https://woody-morgan.github.io//blog</link>
+      <title>moel-kim.github.io</title>
+      <link>https://moel-kim.github.io//blog</link>
       <description>Inspirational thoughts and ideas</description>
       <language>ko-KR</language>
-      <managingEditor>woody.morgan.crafts@gmail.com (woody morgan)</managingEditor>
-      <webMaster>woody.morgan.crafts@gmail.com (woody morgan)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
       <lastBuildDate>Fri, 22 Nov 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://woody-morgan.github.io//tags/retrospect/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://moel-kim.github.io//tags/retrospect/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://woody-morgan.github.io//blog/retrospect/retrospect-2024</guid>
+    <guid>https://moel-kim.github.io//blog/retrospect/retrospect-2024</guid>
     <title>[회고] 3년차 개발자가 되며</title>
-    <link>https://woody-morgan.github.io//blog/retrospect/retrospect-2024</link>
+    <link>https://moel-kim.github.io//blog/retrospect/retrospect-2024</link>
     <description>찾아다녔던 리더쉽의 본질과 새로운 레시피를 만들어내는 법</description>
     <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-    <author>woody.morgan.crafts@gmail.com (woody morgan)</author>
+    <author>moel.kimdw@gmail.com (moel kim)</author>
     <category>retrospect</category>
   </item>
 
