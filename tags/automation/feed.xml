@@ -3,10 +3,10 @@
     <channel>
       <title>moel-kim.github.io</title>
       <link>https://moel-kim.github.io//blog</link>
-      <description>Inspirational thoughts and ideas</description>
+      <description>Lesson and Learn</description>
       <language>ko-KR</language>
-      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
-      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (Moel)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (Moel)</webMaster>
       <lastBuildDate>Mon, 14 Oct 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://moel-kim.github.io//tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://moel-kim.github.io//blog/review/automation-for-work</link>
     <description>생산성 향상을 위해 했던 고민들</description>
     <pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
-    <author>moel.kimdw@gmail.com (moel kim)</author>
+    <author>moel.kimdw@gmail.com (Moel)</author>
     <category>review</category><category>automation</category>
   </item>
 

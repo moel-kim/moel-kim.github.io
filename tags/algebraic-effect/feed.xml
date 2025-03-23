@@ -3,10 +3,10 @@
     <channel>
       <title>moel-kim.github.io</title>
       <link>https://moel-kim.github.io//blog</link>
-      <description>Inspirational thoughts and ideas</description>
+      <description>Lesson and Learn</description>
       <language>ko-KR</language>
-      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
-      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (Moel)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (Moel)</webMaster>
       <lastBuildDate>Sun, 04 Jun 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://moel-kim.github.io//tags/algebraic-effect/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://moel-kim.github.io//blog/funtional/declarative-programming-part2</link>
     <description>React Suspense와 Compound Component Pattern으로 알아보는 선언적 프로그래밍(feat. 대수적 효과)</description>
     <pubDate>Sun, 04 Jun 2023 00:00:00 GMT</pubDate>
-    <author>moel.kimdw@gmail.com (moel kim)</author>
+    <author>moel.kimdw@gmail.com (Moel)</author>
     <category>declarative</category><category>algebraic-effect</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://moel-kim.github.io//blog/funtional/declarative-programming-part1</link>
     <description>React Suspense와 Compound Component Pattern으로 알아보는 선언적 프로그래밍(feat. 대수적 효과)</description>
     <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
-    <author>moel.kimdw@gmail.com (moel kim)</author>
+    <author>moel.kimdw@gmail.com (Moel)</author>
     <category>declarative</category><category>algebraic-effect</category>
   </item>
 

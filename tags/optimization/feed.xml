@@ -3,10 +3,10 @@
     <channel>
       <title>moel-kim.github.io</title>
       <link>https://moel-kim.github.io//blog</link>
-      <description>Inspirational thoughts and ideas</description>
+      <description>Lesson and Learn</description>
       <language>ko-KR</language>
-      <managingEditor>moel.kimdw@gmail.com (moel kim)</managingEditor>
-      <webMaster>moel.kimdw@gmail.com (moel kim)</webMaster>
+      <managingEditor>moel.kimdw@gmail.com (Moel)</managingEditor>
+      <webMaster>moel.kimdw@gmail.com (Moel)</webMaster>
       <lastBuildDate>Mon, 07 Feb 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://moel-kim.github.io//tags/optimization/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://moel-kim.github.io//blog/frontend/ways-to-optimize-your-nextjs-application</link>
     <description>apply tree-shaking &amp; constate on my app</description>
     <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-    <author>moel.kimdw@gmail.com (moel kim)</author>
+    <author>moel.kimdw@gmail.com (Moel)</author>
     <category>frontend</category><category>optimization</category>
   </item>
 
