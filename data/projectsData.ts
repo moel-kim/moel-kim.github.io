@@ -2,8 +2,8 @@ const projectsData = [
   {
     title: 'Chak Chak',
     description: '팝업스토어 예약 SaaS',
-    imgSrc: 'static/images/proj/chak-chak.png',
-    href: 'https://chak-chak.vercel.app',
+    imgSrc: 'static/images/proj/chakchak.png',
+    href: 'https://chakchak.vercel.app/',
   },
   {
     title: 'Surrounds',
