@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'moel-kim.github.io',
-  author: 'moel kim',
-  headerTitle: 'Inspirations',
-  description: 'Inspirational thoughts and ideas',
+  author: 'Moel',
+  headerTitle: 'Moel',
+  description: 'Lesson and Learn',
   language: 'ko-KR',
   theme: 'system', // system, dark or light
   siteUrl: 'https://moel-kim.github.io/',
