@@ -1,38 +1,18 @@
-/* eslint-disable react/display-name */
-import React, { useMemo } from 'react'
-import { ComponentMap, getMDXComponent } from 'mdx-bundler/client'
+import TOCInline from 'pliny/ui/TOCInline'
+import Pre from 'pliny/ui/Pre'
+import BlogNewsletterForm from 'pliny/ui/BlogNewsletterForm'
+import type { MDXComponents } from 'mdx/types'
 import Image from './Image'
 import CustomLink from './Link'
-import TOCInline from './TOCInline'
-import Pre from './Pre'
-import { BlogNewsletterForm } from './NewsletterForm'
-import { Youtube } from './mdx/Youtube'
+import TableWrapper from './TableWrapper'
+import { Youtube } from './Youtube'
 
-const Wrapper: React.ComponentType<{ layout: string }> = ({ layout, ...rest }) => {
-  const Layout = require(`../layouts/${layout}`).default
-  return <Layout {...rest} />
-}
-
-export const MDXComponents: ComponentMap = {
+export const components: MDXComponents = {
   Image,
-  //@ts-ignore
   TOCInline,
   Youtube,
   a: CustomLink,
   pre: Pre,
-  wrapper: Wrapper,
-  //@ts-ignore
+  table: TableWrapper,
   BlogNewsletterForm,
-}
-
-interface Props {
-  layout: string
-  mdxSource: string
-  [key: string]: unknown
-}
-
-export const MDXLayoutRenderer = ({ layout, mdxSource, ...rest }: Props) => {
-  const MDXLayout = useMemo(() => getMDXComponent(mdxSource), [mdxSource])
-
-  return <MDXLayout layout={layout} components={MDXComponents} {...rest} />
 }

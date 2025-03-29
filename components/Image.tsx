@@ -1,11 +1,9 @@
-// import NextImage, { ImageProps } from 'next/image'
+import NextImage, { ImageProps } from 'next/image'
 
-// const Image = ({ ...rest }: ImageProps) => <NextImage {...rest} />
+const basePath = process.env.BASE_PATH
 
-// export default Image
-
-import { ImgHTMLAttributes } from 'react'
-
-const Image = ({ ...rests }: ImgHTMLAttributes<HTMLImageElement>) => <img {...rests} />
+const Image = ({ src, ...rest }: ImageProps) => (
+  <NextImage src={`${basePath || ''}${src}`} {...rest} />
+)
 
 export default Image
