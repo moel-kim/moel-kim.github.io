@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/moel-kim/moel-kim.github.io',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/avatar.jpeg`,
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'moel.kimdw@gmail.com',
   github: 'https://github.com/moel-kim',
   // x: 'https://twitter.com/x',
@@ -49,11 +49,6 @@ const siteMetadata = {
       googleAnalyticsId: 'G-0G7SNT9K17', // e.g. UA-000000-2 or G-XXXXXXX
     },
   },
-  newsletter: {
-    // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus, beehive
-    // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
-  },
   comments: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
@@ -81,7 +76,7 @@ const siteMetadata = {
       // example: https://giscus.app/themes/custom_example.css
       themeURL: '',
       // This corresponds to the `data-lang="en"` in giscus's configurations
-      lang: 'en',
+      lang: 'ko',
     },
   },
   search: {
