@@ -1,8 +1,8 @@
 import { PageVariants } from 'animations/page-var'
-import { motion } from 'framer-motion'
-import React, { FC } from 'react'
+import type { FC, PropsWithChildren, ReactNode } from 'react'
+import * as motion from 'motion/react-client'
 
-const Transition: FC = ({ children }) => {
+const Transition: FC<PropsWithChildren> = ({ children }) => {
   return (
     <motion.div
       variants={PageVariants}
