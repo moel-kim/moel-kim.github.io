@@ -7,6 +7,11 @@ interface Project {
 
 const projectsData = [
   {
+    title: 'Five Minute',
+    description: '5분 만에 읽을 수 있는 책과 시와 모든 것',
+    href: 'https://five-min-deploy-next.vercel.app/',
+  },
+  {
     title: 'Chak Chak',
     description: '팝업스토어 예약 SaaS',
     imgSrc: '/static/images/proj/chakchak.png',
