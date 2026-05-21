@@ -12322,11 +12322,11 @@ __metadata:
   linkType: hard
 
 "yaml@npm:^2.0.0, yaml@npm:^2.3.1":
-  version: 2.7.0
-  resolution: "yaml@npm:2.7.0"
+  version: 2.9.0
+  resolution: "yaml@npm:2.9.0"
   bin:
     yaml: bin.mjs
-  checksum: 6e8b2f9b9d1b18b10274d58eb3a47ec223d9a93245a890dcb34d62865f7e744747190a9b9177d5f0ef4ea2e44ad2c0214993deb42e0800766203ac46f00a12dd
+  checksum: f0f74b349c126bb9acf649be1e7efaec5869b1567bdc047e43b176bcdd7730a9bc7ab8fc9c6b1c358e611fab0fe0a0d8933393f1af383a7dc0b4755a1d5f31f9
   languageName: node
   linkType: hard
 
